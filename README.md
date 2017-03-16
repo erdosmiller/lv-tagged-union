@@ -18,3 +18,5 @@ Dependencies
 ----------------------------
 
 LV-Tagged-Union depends on [LV-Scripting](https://github.com/erdosmiller/lv-scripting)
+
+Requires LabVIEW 2015 or later
